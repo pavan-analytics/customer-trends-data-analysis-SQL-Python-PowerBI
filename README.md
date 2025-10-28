@@ -38,23 +38,23 @@ The goal of this project is to showcase the ability to transform **raw customer 
 ---
 
 ## 🛠️ How to Use This Project
-1. **Clone the Repository**
+1. **Clone the Repository**:
    ```bash
    git clone https://github.com/pavan-analytics/customer-trends-data-analysis-SQL-Python-PowerBI.git
    cd customer-trends-data-analysis-SQL-Python-PowerBI
-2. **Open the Jupyter Notebook**
+2. **Open the Jupyter Notebook**:
    Open Customer_shopping_behavior.ipynb to:
    Import, explore, and clean data
    Connect and load data into SQL
 
-3. **Run SQL Queries**
+3. **Run SQL Queries**:
    Open customer_behavior_sql_queries.sql and execute business analysis queries.
 
-4. **Open Power BI Dashboard**
+4. **Open Power BI Dashboard**:
    Open customer_behavior_dashboard.pbix
    Interact with the visuals and analyze customer insights
 
-5. **Create Report & Presentation**
+5. **Create Report & Presentation**:
    Summarize insights in a project report
    Design a visual presentation using Gamma AI
 
